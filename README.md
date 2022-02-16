@@ -1,6 +1,6 @@
 # IEEE MSIT Project Committee RFC's
 
-Ideas and new features proposals and designs for Projects to be made in IEEE Project Committee💻 .
+Ideas and new features proposals and designs for Projects to be made by IEEE Project Committee💻 .
 
 This repository serves as a central hub to keep track of all Project requests and major features, Plan of Actions of the project built by IEEE MSIT Projects Committee. 
 
