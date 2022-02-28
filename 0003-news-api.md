@@ -33,10 +33,10 @@ We will be dividing the proposal into Five phases :-
 This will be the inital phase , we will try to gather all the website as much as we can with different types of news coverage, so that we would have a clear cut idea of what website to scrape data from
 
 ### Second Phase
-In this phase , we will be making different classes based approach for various categories of news to scarpe data.
+In this phase , we will be making different classes based approach for various categories of news to scrape data.
 
 ### Third Phase
-In this phase we will optimize our code for better and fast scraping as well as to hanlde exceptions to inimize crashes , and we will also deploy our package in PyPy official library of python.
+In this phase we will optimize our code for better and fast scraping as well as to handle exceptions to minimize crashes , and we will also deploy our package in PyPy official library of python.
 
 ### Fourth Phase
 In this phase we will make API , so that everyone can use it irrespective of the langauge they code in , as well as deploy it so that everyone can use it.
@@ -51,4 +51,4 @@ Beautiful Soup and Request -> for web scraping
 Our Benchmarks should mainly focus on how fast and hastle free would our api will perform as multiple request at same time can delay the response.
 
 ### Documentation & Content
-For Documentation, we will list all the website used in this web scrapper, as well how to use the api and python package.
+For Documentation, we will list all the website used in this web scraper, as well how to use the api and python package.
