@@ -1,4 +1,4 @@
-# News API
+# portfolio-website-generator
 
 - Implementation Owner: @prachigarg19
 - Start Date: 05-03-2022
